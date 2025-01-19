@@ -3,7 +3,7 @@
 ## Источники
 
 - [Документация API](http://185.204.2.206/swagger-ui/)
-- pyRustScraperApi
+- Клиентска библиотека на Python - [pyRustScraperApi](https://pypi.org/project/pyRustScraperApi/)
 
 ## О проекте
 
