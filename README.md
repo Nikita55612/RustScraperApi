@@ -1,6 +1,6 @@
 # RustScraperApi
 
-- [Документация API](http://185.204.2.206/swagger-ui/)
+- [Документация API](https://rustscraper.ru/swagger-ui/)
 - [Python клиент](https://pypi.org/project/pyRustScraperApi/)
 
 ## О проекте
